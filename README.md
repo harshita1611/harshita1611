@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Harshita Bhambhani
+- 👀 I’m interested in making websites which help people in some or the other way 
+- 🌱 I’m currently learning Javascript and C++
+- 💞️ I’m a very basic level programmer but willing to learn a lot so all your suggestions are welcomed
+- 📫 You can reach me at https://www.linkedin.com/in/harshitaa16
+- 🙋🏻‍♀️ Except programming my other passion is music and dance
