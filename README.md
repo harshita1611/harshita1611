@@ -27,9 +27,9 @@ React.js | Node.js for building dynamic and responsive web applications.<br>
 Tailwind CSS for efficient and elegant styling.<br>
 Supabase | as my go-to database to store and manage all the things I'm building! 
 </h4>
-<br><br>
-<h2>🌱 Connect and Collaborate</h2>
 <br>
+<h2>🌱 Connect and Collaborate</h2>
+
 <h5>
 I'm open to exciting opportunities, partnerships, and collaborations. If you're as passionate about web development, programming, and innovation as I am, let's connect and create something amazing together!
 
