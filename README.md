@@ -7,7 +7,7 @@ I'm a passionate B.Tech student at Adani University with a strong inclination to
 </h4>
 <h2>🚀 What I Do</h2>
 <h4>
-🌐 Transforming concepts into functional and visually appealing websites.
+🌐 Transforming concepts into functional and visually appealing websites.<br>
 💻 Solving coding challenges and enhancing my skills in competitive programming.
 🌟 Embracing a growth mindset and constantly seeking new opportunities to learn and innovate.
 🤝 Collaborating with fellow developers to create meaningful projects.
