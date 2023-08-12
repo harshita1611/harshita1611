@@ -1,6 +1,6 @@
 <h2>**Hey there! 👋**</h1>
-<h6>
-Welcome to my GitHub profile! I'm thrilled to have you here.
+<h5>
+Welcome to my GitHub profile! I'm thrilled to have you here.<br><br>
 
 I'm a passionate B.Tech student at Adani University with a strong inclination towards web development and competitive programming. I believe in the power of code to shape ideas into tangible web experiences that leave a lasting impact.
 
