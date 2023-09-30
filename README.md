@@ -36,6 +36,7 @@ I'm open to exciting opportunities, partnerships, and collaborations. If you're 
 Feel free to explore my repositories and don't hesitate to reach out. 💌 Let's code and shape the future of the web! 🌐✨
 </p>
 
+<h2>🧿 Badges earned </h2>
 
 [![An image of @harshita1611's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshita1611)](https://holopin.io/@harshita1611)
 
