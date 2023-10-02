@@ -7,7 +7,8 @@ I'm a passionate B.Tech student at Adani University with a strong inclination to
 <p>
   
 ## 📈 Stats
-![Harshita's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshita1611&show_icons=true&theme=algolia)
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=harshita1611&show_icons=true&theme=algolia">
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshita1611&layout=compact">
 
 <h2>🚀 What I Do</h2>
 
@@ -17,6 +18,7 @@ I'm a passionate B.Tech student at Adani University with a strong inclination to
 🌟 Embracing a growth mindset and constantly seeking new opportunities to learn and innovate.<br>
 🤝 Collaborating with fellow developers to create meaningful projects.<br>
 </p>
+
 
 
 <h2>🔧 Tech Stack</h2>
