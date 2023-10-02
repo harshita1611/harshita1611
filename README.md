@@ -40,3 +40,8 @@ Feel free to explore my repositories and don't hesitate to reach out. 💌 Let's
 
 [![An image of @harshita1611's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshita1611)](https://holopin.io/@harshita1611)
 
+<h2>📊 Stats</h2>
+<!-- GitHub Readme Stats Card -->
+![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=harshita1611&show_icons=true&theme=radical)
+
+
