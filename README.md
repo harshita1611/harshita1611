@@ -5,6 +5,9 @@ Welcome to my GitHub profile! I'm thrilled to have you here.<br>
 I'm a passionate B.Tech student at Adani University with a strong inclination towards web development and competitive programming. I believe in the power of code to shape ideas into tangible web experiences that leave a lasting impact.
 
 <p>
+  
+## 📈 Stats
+![Harshita's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshita1611&show_icons=true&theme=algolia)
 
 <h2>🚀 What I Do</h2>
 
@@ -39,9 +42,3 @@ Feel free to explore my repositories and don't hesitate to reach out. 💌 Let's
 <h2>🧿 Badges earned </h2>
 
 [![An image of @harshita1611's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshita1611)](https://holopin.io/@harshita1611)
-
-<h2>📊 Stats</h2>
-<!-- GitHub Readme Stats Card -->
-![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=harshita1611&show_icons=true&theme=radical)
-
-
