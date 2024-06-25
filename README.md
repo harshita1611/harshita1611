@@ -19,6 +19,9 @@ I'm a passionate B.Tech student at Adani University with a strong inclination to
 🤝 Collaborating with fellow developers to create meaningful projects.<br>
 </p>
 
+<h2>🏆  Github Trophies</h2>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshita1611" alt="harshita1611" /></a> </p>
+
 
 <br></br>
 ## 🔧 Tech Stack
