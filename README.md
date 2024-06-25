@@ -7,6 +7,7 @@ I'm a passionate B.Tech student at Adani University with a strong inclination to
 <p>
   
 ## 📈 Stats
+![Metrics](/github-metrics.svg)
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=harshita1611&show_icons=true&theme=algolia">
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshita1611&layout=compact">
 
