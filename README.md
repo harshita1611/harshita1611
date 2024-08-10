@@ -45,22 +45,22 @@ I'm a passionate B.Tech student at Adani University with a strong inclination to
 
 ## 🪶 GSSOC(2024) Badges
 <div style='display:flex; align-items:center; gap: 10px;'>
-<a href="https://api.badgr.io/public/assertions/S-ky-yxSQDyxy02l5mVFqA?identity__email=harshitabhambhani7%40gmail.com">
+<a href="https://drive.google.com/file/d/1tX9uPMGnEY7T2ky6gN-R4fISJKJ0viCo/view?usp=sharing">
   <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" alt="Badge: Postman API Fundamentals Student Expert" width="100" height="100">
 </a>
-<a href="https://drive.google.com/file/d/14iS7XFYnFtZsvQPKmxiCmfzFrOm-XtuS/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1TfZBsC4dyy4mgQ1CTJZpWzKFhyMnhjOK/view?usp=sharing">
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" alt="Badge: Postman API Fundamentals Student Expert" width="100" height="100">
 </a>
-<a href="https://drive.google.com/file/d/1ZNQHsc2e61OXQSWA4A3gT5Pdi2yidRtA/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1o7g52vgXi-8m8ReayN89ugiHuuzmquaG/view?usp=sharing">
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" alt="Badge: Postman API Fundamentals Student Expert" width="100" height="100">
 </a>
-<a href="https://drive.google.com/file/d/19bNdp-EswnlPdFinIY590YPn_wl3aoSb/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1LEA80iJaD2VJOVzzV_g2fwNT4CZJaOjD/view?usp=sharing">
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" alt="Badge: Postman API Fundamentals Student Expert" width="100" height="100">
 </a>
-<a href="https://drive.google.com/file/d/1EVllg0SPbrHPErOffc6lxAqmPPe4DAeA/view?usp=sharing">
+<a href="https://drive.google.com/file/d/13vr1RHUxzR5mW7FtLASMTD4rhWboDug2/view?usp=sharing">
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" alt="Badge: Postman API Fundamentals Student Expert" width="100" height="100">
 </a>
-<a href="https://drive.google.com/file/d/1ALnMG8lV_aXgX_8C-Y8E4in0UkoY9Otb/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1fETqra31rfE-A7-qA2LaN_RaL6sOZ_Qi/view?usp=sharing">
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" alt="Badge: Postman API Fundamentals Student Expert" width="100" height="100">
 </a>
 
